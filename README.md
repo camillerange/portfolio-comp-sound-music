@@ -1,5 +1,5 @@
 # portfolio-comp-sound-music
-## Student Portfolio
+# Student Portfolio
 #### Camille Range
 CS 516: Computers, Sound, and Music
 ---
